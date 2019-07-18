@@ -1,7 +1,7 @@
 ## HTML Documentation link
 
 Documentation corresponding to the latest version in the tree is
-[here](http://markdelany.github.com/Pluton/1.0/index.html).
+[here](https://github.com/markdingo/PlutonDocs/1.0/index.html).
 
 ## Introduction to The Pluton Framework
 
