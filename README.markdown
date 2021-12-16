@@ -1,7 +1,12 @@
 ## HTML Documentation link
 
+<<<<<<< HEAD
+A copy of the Documentation from the original Yahoo repo can be found
+[here](https://pluton.emu.st).
+=======
 Documentation corresponding to the latest version in the tree is
 [here](https://github.com/markdingo/Pluton/blob/master/Docs/index.html).
+>>>>>>> 02eddf9f823490408d18678eb82d68d5415697fb
 
 ## Introduction to The Pluton Framework
 
